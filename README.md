@@ -2,9 +2,11 @@
 
 "주인이 보지 않을 때 장난감은 살아 움직인다"는 컨셉에서 시작된 1인칭 공포 방탈출 게임입니다. 픽사의 *토이스토리*와 드라마 *닥터후*의 '우는 천사' 연출에서 영감을 받아 제작되었습니다.
 
-## 🎬 Gameplay Video (Click the image to play)
+## 🎮 Gameplay Video
 
-[](https://www.google.com/search?q=%EC%97%AC%EA%B8%B0%EC%97%90_%EC%9C%A0%ED%8A%9C%EB%B8%8C_%EC%98%81%EC%83%81_%EB%A7%81%ED%81%AC%EB%A5%BC_%EB%84%A3%EC%9C%BC%EC%84%B8%EC%9A%94)
+↓ Click the Image and Watch the Video!
+
+[![Gameplay Video](https://i.ibb.co/vCBj7ngB/11.png)](https://drive.google.com/file/d/1-BXX5jehlaAw5cwMdD8JxyAkM0aQKuCg/view?usp=drive_link)
 
 ## 📖 Story
 
