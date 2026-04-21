@@ -8,6 +8,10 @@
 
 [![Gameplay Video](https://i.ibb.co/vCBj7ngB/11.png)](https://drive.google.com/file/d/1-BXX5jehlaAw5cwMdD8JxyAkM0aQKuCg/view?usp=drive_link)
 
+## 📥Download
+
+👉 실행 파일은 Releases 탭에서 다운로드할 수 있습니다.
+
 ## 📖 Story
 
   * **잊혀진 친구:** '베어'는 당신이 3살 때부터 모든 곳을 함께 다녔던 가장 친한 친구였습니다.
